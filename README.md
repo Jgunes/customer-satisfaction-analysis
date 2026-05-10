@@ -13,3 +13,6 @@ Python automation project that analyzes customer feedback data from Excel files 
 - Department rating calculation
 - Automatic chart generation
 - PDF reporting
+
+## Author
+JG Automation & Data
