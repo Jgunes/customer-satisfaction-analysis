@@ -14,8 +14,10 @@ Python automation project that analyzes customer feedback data from Excel files 
 - Automatic chart generation
 - PDF reporting
 
-## Author
-JG Automation & Data
 
 ## Preview
 ![Customer Chart](feedback_chart.png)
+
+# Author
+
+JG Automation & Data
