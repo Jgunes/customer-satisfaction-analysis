@@ -16,7 +16,7 @@ Python automation project that analyzes customer feedback data from Excel files 
 
 
 ## Preview
-![Customer Chart](feedback_chart.png)
+![Customer Chart](feedback_chart_neon.png)
 
 # Author
 
